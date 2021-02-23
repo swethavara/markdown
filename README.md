@@ -45,7 +45,7 @@ Github(https://github.com/public-apis/public-apis)
 **DATA**  
 
 |NAME|COLLEGE|BRANCH|        
-|....|.......|.....|           
+|----|---------|-----------|           
 |ABCD|VRSEC|IT|      
 |EFGH|VRSEC|IT|     
 
